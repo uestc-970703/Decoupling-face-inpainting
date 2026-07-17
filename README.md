@@ -16,12 +16,10 @@ This code is based on the paper **"Decoupling Latent 3D Facial Structure for Lar
 
 ### Facial Structure Estimator Checkpoint
 
-- File: `facial_structure_estimator/demo/checkpoint300.pth`
 - Baidu Netdisk: [https://pan.baidu.com/s/1Fmvvd_D7YgNbGSlUzXHaXw](https://pan.baidu.com/s/1Fmvvd_D7YgNbGSlUzXHaXw)
 - Extraction code: `a1b2`
 
 ### Inpainting Module Checkpoints
 
-- Files: `inpainting_module/pretrained/*.pkl`
 - Baidu Netdisk: [https://pan.baidu.com/s/1U64Yo_H4WFrfNj84jdlBkw](https://pan.baidu.com/s/1U64Yo_H4WFrfNj84jdlBkw)
 - Extraction code: `z777`

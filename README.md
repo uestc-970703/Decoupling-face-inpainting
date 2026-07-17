@@ -18,6 +18,7 @@ The code for converting LAP depth maps to normal maps is available in [`depth_to
 
 ## Dataset Links
 
+- CelebA: [https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8?resourcekey=0-5BR16BdXnb8hVj6CNHKzLg](https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8?resourcekey=0-5BR16BdXnb8hVj6CNHKzLg)
 - CelebA-HQ: [https://github.com/tkarras/progressive_growing_of_gans#preparing-datasets-for-training](https://github.com/tkarras/progressive_growing_of_gans#preparing-datasets-for-training)
 - FFHQ: [https://github.com/NVlabs/ffhq-dataset](https://github.com/NVlabs/ffhq-dataset)
 

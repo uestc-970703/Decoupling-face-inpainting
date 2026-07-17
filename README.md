@@ -16,6 +16,12 @@ This module is adapted from the LAP 3D face reconstruction project. During inpai
 
 It is not the main inference-time model.
 
+Pretrained checkpoint:
+
+- File: `facial_structure_estimator/demo/checkpoint300.pth`
+- Baidu Netdisk: [https://pan.baidu.com/s/1Fmvvd_D7YgNbGSlUzXHaXw](https://pan.baidu.com/s/1Fmvvd_D7YgNbGSlUzXHaXw)
+- Extraction code: `a1b2`
+
 Standalone export is still available for inspection:
 
 ```shell

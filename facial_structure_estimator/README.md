@@ -15,6 +15,21 @@ Training usage:
 - The inpainting CNN/first-stage output is passed through this estimator, and its `canonical_image_lap` is compared with the estimator output from the ground-truth image.
 - The estimator weights stay frozen; gradients flow through the estimator back to the inpainting module.
 
+## Pretrained Checkpoint
+
+Download `checkpoint300.pth` and place it at:
+
+```text
+facial_structure_estimator/demo/checkpoint300.pth
+```
+
+Baidu Netdisk:
+
+```text
+Link: https://pan.baidu.com/s/1Fmvvd_D7YgNbGSlUzXHaXw
+Extraction code: a1b2
+```
+
 Standalone supervision export is available for debugging:
 
 ```shell

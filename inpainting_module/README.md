@@ -10,6 +10,21 @@ It is adapted from MAT and remains responsible for completing masked or missing 
 
 During inference, this module is the primary runtime path.
 
+## Pretrained Checkpoints
+
+Download the `.pkl` model files and place them under:
+
+```text
+inpainting_module/pretrained/
+```
+
+Baidu Netdisk:
+
+```text
+Link: https://pan.baidu.com/s/1U64Yo_H4WFrfNj84jdlBkw
+Extraction code: z777
+```
+
 Structure-supervised training example:
 
 ```shell

@@ -34,6 +34,12 @@ Main inference-stage module.
 
 This module is adapted from MAT, a mask-aware transformer image inpainting model. It is the primary model used during inference to complete masked or missing regions in face images.
 
+Pretrained checkpoints:
+
+- Files: `inpainting_module/pretrained/*.pkl`
+- Baidu Netdisk: [https://pan.baidu.com/s/1U64Yo_H4WFrfNj84jdlBkw](https://pan.baidu.com/s/1U64Yo_H4WFrfNj84jdlBkw)
+- Extraction code: `z777`
+
 During training:
 
 - The Transformer/final output is passed through `facial_structure_estimator`.

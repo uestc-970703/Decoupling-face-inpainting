@@ -12,6 +12,10 @@ This code is based on the paper **"Decoupling Latent 3D Facial Structure for Lar
 
 ![Inpainting results](inpainting_results.png)
 
+## Depth-to-Normal Conversion
+
+The code for converting LAP depth maps to normal maps is available in [`depth_to_normal_lap.py`](https://github.com/uestc-970703/Decoupling-face-inpainting/blob/main/depth_to_normal_lap.py).
+
 ## Download Links
 
 ### Facial Structure Estimator Checkpoint

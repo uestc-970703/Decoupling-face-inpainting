@@ -1,0 +1,37 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local IDE metadata
+.idea/
+.vscode/
+
+# Model checkpoints and pretrained weights
+*.pth
+*.pt
+*.pkl
+*.ckpt
+*.onnx
+facial_structure_estimator/demo/checkpoint*.pth
+inpainting_module/pretrained/
+
+# Generated outputs and experiment artifacts
+results/
+results*/
+samples/
+output/
+outputs/
+training-runs/
+*.mp4
+*.avi
+
+# Large bundled sample/evaluation data
+inpainting_module/test_sets/
+inpainting_module/metric/
+inpainting_module/resized_images/
+facial_structure_estimator/NFT_results/
+
+# OS metadata
+.DS_Store
+Thumbs.db

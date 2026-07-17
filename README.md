@@ -2,6 +2,8 @@
 
 This repository combines a facial structure estimator and an inpainting module for structure-aware face inpainting.
 
+This code is based on the paper **"Decoupling Latent 3D Facial Structure for Largely Masked Face Image Inpainting"**.
+
 ## Overview
 
 ![Overall framework](overall.png)
